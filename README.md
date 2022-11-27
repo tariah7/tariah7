@@ -1,8 +1,14 @@
 ## Tariah 
-I am a [GIS Analyst](https://www.linkedin.com/in/victor-tariah-83159371/).
+I am a [GIS Analyst](https://www.linkedin.com/in/victor-tariah-83159371/), a Seismic Navigator, and a registered Surveyor.
 
 ### Hi there 👋
 - 🔭 I’m currently working on carbon Sequestration potential of Trees within Rivers state University Campuses. 
+
+## Past Projects
+- OML 79, 77_74, OBN Shallow Marine Seismic Exploitation in the Gulf of Guinea, **Client**: _S.P.D.C_ 
+- OML 55 JV509, Land (Swamp) and water seismic, Exploitation in Akuku-Toru Local Government
+Area, Nigeria. **Client**: _B.P.L_
+- Office of The Surveyor General, Rivers State.
 <!--
 **tariah7/tariah7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
