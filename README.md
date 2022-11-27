@@ -1,5 +1,5 @@
 ## Tariah 
-
+I am a [GIS Analyst](https://www.linkedin.com/in/victor-tariah-83159371/).
 
 ### Hi there 👋
 - 🔭 I’m currently working on ...
